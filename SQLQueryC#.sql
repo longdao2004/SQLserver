@@ -1,0 +1,3 @@
+SELECT *
+FROM [dbo].[DONDH]
+WHERE [MaNCC] = 'C02';
